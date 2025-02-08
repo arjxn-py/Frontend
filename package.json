@@ -21,7 +21,7 @@
     "file-saver": "^2.0.5",
     "mic-recorder-to-mp3": "^2.2.2",
     "os": "^0.1.2",
-    "react": "^18.2.0",
+    "react": "^19.0.0",
     "react-bootstrap": "^2.10.6",
     "react-dom": "^18.3.1",
     "react-dropzone-uploader": "^2.11.0",
