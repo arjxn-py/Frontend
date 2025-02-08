@@ -17,7 +17,7 @@
     "bootstrap": "^5.3.3",
     "concatenateblobs": "^1.0.2",
     "crunker": "^2.4.0",
-    "dotenv": "^16.4.5",
+    "dotenv": "^16.4.7",
     "file-saver": "^2.0.5",
     "mic-recorder-to-mp3": "^2.2.2",
     "os": "^0.1.2",
